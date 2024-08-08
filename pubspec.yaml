@@ -1,0 +1,23 @@
+name: stock_prices
+description: "A new Flutter project."
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: '>=3.4.4 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  dio: ^5.5.0+1
+  june: ^1.0.0+1
+  syncfusion_flutter_charts: ^26.2.8
+  
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+
+flutter:
+  uses-material-design: true
