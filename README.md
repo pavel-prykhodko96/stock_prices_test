@@ -1,1 +1,3 @@
-# stock_prices_test
+# stock_prices
+
+A new Flutter project.
